@@ -7,3 +7,4 @@ You're welcome to explore the approaches I've taken — but I highly encourage y
 
 ## Contributors (Thank you!!)
 - [Marwan Ayman](https://github.com/maroayman)
+- [MOHD ISHAQ KHAN](https://github.com/mohdishaqkhan)
